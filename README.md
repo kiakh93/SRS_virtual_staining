@@ -26,4 +26,4 @@ python train.py --n_epochs [numberof epochs] --dataset_dir [directory of the dat
 ```
 ### Results
 
-<img src="figs/res.png" width="800px"/>
+<img src="figs/fig2.png" width="800px"/>
