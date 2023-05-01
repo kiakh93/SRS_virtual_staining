@@ -24,3 +24,6 @@ We are excited to present our deep learning framework that enables the conversio
 ```bash
 python train.py --n_epochs [numberof epochs] --dataset_dir [directory of the dataset] --batch_size [batch size] --lr [learning rate] 
 ```
+### Results
+
+<img src="figs/res.png" width="800px"/>
