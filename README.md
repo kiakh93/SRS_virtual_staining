@@ -19,11 +19,19 @@ We are excited to present our deep learning framework that enables the conversio
 - sys
 - PIL
 
+## Training
+
 - The training dataset is available upon reasonable request. 
 - To train the virtual stain model, please use this command:
 ```bash
 python train.py --n_epochs [numberof epochs] --dataset_dir [directory of the dataset] --batch_size [batch size] --lr [learning rate] 
 ```
+
+## Virtual FFPE
+
+Please refer to this [repository](https://github.com/kiakh93/Virtual_FFPE) for more information.
+
 ### Results
 
 <img src="figs/Fig2.png" width="800px"/>
+
