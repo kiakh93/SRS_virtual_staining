@@ -1,5 +1,7 @@
 # SRS_virtual_staining
 
+<img src="figs/FS2PS.png" width="800px"/>
+
 We are excited to present our deep learning framework that enables the conversion of SRS images of frozen prostate samples into conventional histology images through a process we call virtual staining. Our framework involves two models. The first one translates the SRS data into virtual staining of frozen images, while the second model utilizes a cycle-GAN approach to convert virtual stain images into FFPE-looking images that are more common in pathology.
 
 ## Requirements
